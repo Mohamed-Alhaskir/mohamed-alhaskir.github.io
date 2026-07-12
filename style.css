@@ -15,8 +15,8 @@
     --accent-soft: #eef2fb;
     --sidebar-w: 380px;
     --content-max: 760px;
-    --font-sans: "Aptos", "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
-    --font-serif: "Aptos", "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --font-sans: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --font-serif: "Space Grotesk", "Source Sans 3", system-ui, -apple-system, sans-serif;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
