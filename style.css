@@ -15,7 +15,7 @@
     --accent-soft: #eef2fb;
     --sidebar-w: 380px;
     --content-max: 760px;
-    --font-sans: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-sans: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
     --font-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
 }
 
