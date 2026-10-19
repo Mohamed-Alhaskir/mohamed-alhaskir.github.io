@@ -55,8 +55,9 @@ def fetch(scholar_id: str) -> dict:
     """Return a dict ready to serialize to publications.json."""
     try:
         from scholarly import scholarly
-    except ImportError:
-        sys.exit("Missing dependency. Run:  pip install -r requirements.txt")
+    except ImportError as exc:
+        sys.exit(f"Missing dependency ({exc}). Run:  pip install -r requirements.txt")
+
 
     _maybe_enable_proxies()
 
