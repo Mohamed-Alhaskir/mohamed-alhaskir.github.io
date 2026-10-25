@@ -1,6 +1,6 @@
 # Mohamed Alhaskir
 
-> Mohamed Alhaskir is a Syrian-German machine learning researcher and engineer, and a PhD candidate at the Institute of Medical Informatics, RWTH Aachen University (Aachen, Germany). His research focuses on multimodal, LLM-powered AI for medicine — building trustworthy, privacy-preserving, and clinically deployable systems.
+> Mohamed Alhaskir is a Syrian-German machine learning researcher and engineer, and a PhD candidate at the Institute of Medical Informatics, RWTH Aachen University (Aachen, Germany). His research focuses on multimodal, LLM-powered AI for medicine, building trustworthy, privacy-preserving, and clinically deployable systems.
 
 ## About
 
@@ -27,8 +27,8 @@
 
 ## Open-source projects
 
-- HaMoJo — multimodal LLM-powered system for clinical skills assessment in pediatric simulation training: https://github.com/Mohamed-Alhaskir/HaMoJo
-- MoniPy — open-source ML pipeline used as a framework for trustworthy clinical-AI research on biosignal data: https://github.com/rwth-imi/monipy
+- HaMoJo: multimodal LLM-powered system for clinical skills assessment in pediatric simulation training: https://github.com/Mohamed-Alhaskir/HaMoJo
+- MoniPy: open-source ML pipeline used as a framework for trustworthy clinical-AI research on biosignal data: https://github.com/rwth-imi/monipy
 
 ## Profiles
 
