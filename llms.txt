@@ -1,11 +1,12 @@
 # Mohamed Alhaskir
 
-> Mohamed Alhaskir is a Syrian-German machine learning researcher and engineer, and a PhD candidate at the Institute of Medical Informatics, RWTH Aachen University (Aachen, Germany). His research focuses on multimodal, LLM-powered AI for medicine, building trustworthy, privacy-preserving, and clinically deployable systems.
+> Mohamed Alhaskir is a Syrian-German machine learning researcher and PhD candidate at RWTH Aachen University (Aachen, Germany). His research covers multimodal AI, deep learning for physiological time series, predictive modeling, and the rigorous, reproducible evaluation of machine learning systems.
 
 ## About
 
 - **Name:** Mohamed Alhaskir
-- **Role:** PhD Candidate · Multimodal AI for Medicine · Machine Learning Researcher
+- **Role:** Machine Learning Researcher and PhD Candidate
+- **Focus:** Multimodal AI, research engineering, trustworthy machine learning
 - **Affiliation:** Institute of Medical Informatics, RWTH Aachen University, Aachen, Germany
 - **Nationality:** Syrian-German
 - **Website:** https://mohamed-alhaskir.github.io/
@@ -13,22 +14,25 @@
 
 ## Research focus
 
-- Multimodal large language models and generative AI for medicine
-- Trustworthy AI in clinical settings (robustness, reproducibility, auditability)
-- Privacy-preserving machine learning for sensitive medical data
-- Dependable, deployable clinical AI systems and reproducible workflows
-- Clinical AI evaluation and biosignal processing
+- Multimodal AI systems combining speech recognition, computer vision, and large language models
+- Deep learning and signal processing for physiological time series (wearable ECG)
+- Model evaluation: subject-wise validation, comparison against human assessments, data-quality assessment
+- Reproducible ML experimentation and research engineering
+- Predictive modeling with routine hospital data (ongoing research)
+
+## Selected projects
+
+- HaMoJo: end-to-end multimodal LLM pipeline (speech recognition, speaker diarization, computer vision, locally hosted LLMs) that generates structured feedback from simulation recordings: https://github.com/Mohamed-Alhaskir/HaMoJo
+- MoniPy: wearable ECG seizure-detection pipeline, evaluated with leave-one-patient-out validation in a three-center clinical study: https://github.com/rwth-imi/monipy
+- FORECAST (ongoing research): machine learning models for inpatient ward admission, length of stay, and emergency department crowding from routine emergency department data
 
 ## Selected publications
 
-- Reliable Detection of Focal Onset Impaired Awareness Seizures Using Wearable ECG (Alhaskir, M., et al., Computer Methods and Programs in Biomedicine, 2026)
-- ECG Matching: Synchronizing ECG Datasets for Data Quality Comparisons (Alhaskir, M., et al., Studies in Health Technology and Informatics, 2023)
+- Reliable Detection of Focal Onset Impaired Awareness Seizures in Patients with Epilepsy Using Wearable ECG: Development and Validation Study (Alhaskir, M., et al., Computer Methods and Programs in Biomedicine, 2026)
+- Feasibility of LLM-Assisted Communication Feedback in Simulation-Based Medical Education: A Pilot Study (Alhaskir, M., et al., Studies in Health Technology and Informatics, 2026)
 - The Role of Self-Supervised Pretraining in Differentially Private Medical Image Analysis (co-author, arXiv preprint, 2026)
-
-## Open-source projects
-
-- HaMoJo: multimodal LLM-powered system for clinical skills assessment in pediatric simulation training: https://github.com/Mohamed-Alhaskir/HaMoJo
-- MoniPy: open-source ML pipeline used as a framework for trustworthy clinical-AI research on biosignal data: https://github.com/rwth-imi/monipy
+- ECG Matching: An Approach to Synchronize ECG Datasets for Data Quality Comparisons (Alhaskir, M., et al., Studies in Health Technology and Informatics, 2023)
+- Full list: https://scholar.google.com/citations?user=ntHtVD8AAAAJ
 
 ## Profiles
 
