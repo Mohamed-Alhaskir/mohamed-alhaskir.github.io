@@ -22,7 +22,7 @@
 
 ## Selected projects
 
-- HaMoJo: end-to-end LLM and computer vision pipeline (locally hosted LLMs, MediaPipe, speech recognition, speaker diarization) that generates structured feedback from simulation recordings: https://github.com/Mohamed-Alhaskir/HaMoJo
+- HaMoJo: end-to-end LLM and computer vision pipeline (locally hosted LLMs, MediaPipe, speech recognition, speaker diarization) that generates structured feedback from recordings of medical students' simulation training: https://github.com/Mohamed-Alhaskir/HaMoJo
 - MoniPy: deep learning pipeline for wearable ECG seizure detection, evaluated with leave-one-patient-out validation in a three-center clinical study: https://github.com/rwth-imi/monipy
 - FORECAST (ongoing research): foundation models for inpatient ward admission, length of stay, and emergency department crowding from routine emergency department data
 
